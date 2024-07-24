@@ -1,6 +1,6 @@
 # IPL Results Prediction
 ## Description
-IPL-Results-Prediction is a basic machine learning project that uses different in-built models from the scikit-learn python library. It has two individual components: Match Outcome Prediction and Final Score Prediction.
+IPL-Results-Prediction is a basic machine learning project that uses pandas, numpy, seaborn and different in-built functions and model classes from the scikit-learn python library. It has two individual components: Match Outcome Prediction and Final Score Prediction.
 
 Match Outcome Prediction is a classification problem that predicts the winning chance of one of the teams, whereas Final Score Prediction is a regression problem that calculate the final score of a team. Take a look at the jupyter notebooks for better understanding! 
 
