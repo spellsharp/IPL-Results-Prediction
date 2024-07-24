@@ -5,7 +5,7 @@ IPL-Results-Prediction is a basic machine learning project that uses different i
 Match Outcome Prediction is a classification problem that predicts the winning chance of one of the teams, whereas Final Score Prediction is a regression problem that calculate the final score of a team. Take a look at the jupyter notebooks for better understanding! 
 
 **DISCLAIMER**
-This is an undergrad college semester project and was made public for educational purposes, specifically targeted at other undergrad college students who are just starting out in Machine Learning. There are several improvements that can be made to these notebooks. Feel free to make an issue if you feel the need. You may also look at the project report, although I would not recommend it ;)
+This is an undergrad college semester project and was made public for educational purposes, specifically targeted at other undergrad college students who are just starting out in Machine Learning. There are several improvements that can be made to these notebooks. Feel free to make an issue if needed. You may also look at the project report, although I would not recommend it ;)
 
 ## Dataset links
 ### Match Outcome Prediction
